@@ -19,12 +19,8 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
----
 
 ### 🌐 Connect with Me
-- [Portfolio]([https://yourportfolio.com](https://krupa2205.github.io/))
+[https://krupa2205.github.io/]
