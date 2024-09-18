@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Krupa]!
 
 🌟 Creative Web Developer | BCA '24 | Proficient in HTML, CSS, JavaScript,ReactJs, PHP, C++,JAVA
 
