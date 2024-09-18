@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm [Krupa]!
 
-![Working Girl on PC](https://github.com/Krupa2205/Krupa2205/raw/main/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
-
-
-
 
 🌟 Creative Web Developer | BCA '24 | Proficient in HTML, CSS, JavaScript,ReactJs, PHP, C++,JAVA
 
