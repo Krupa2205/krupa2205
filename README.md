@@ -1,5 +1,8 @@
 # 👋 Hi there, I'm [Krupa]!
 
+![Working Girl on PC](https://media.giphy.com/media/your-gif-id/giphy.gif)
+
+
 🌟 Creative Web Developer | BCA '24 | Proficient in HTML, CSS, JavaScript,ReactJs, PHP, C++,JAVA
 
 🌱 I’m currently learning: React.js, building projects, and deepening my knowledge in web development.
