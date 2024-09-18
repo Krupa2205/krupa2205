@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Krupa]!
 
-![Working Girl on PC](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1dlZhUMjEHZPFKs_EKe9_o&ust=1726729141605000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDut7v1y4gDFQAAAAAdAAAAABBq)
+![Working Girl on PC](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/your-gif-file.gif)
 
 
 🌟 Creative Web Developer | BCA '24 | Proficient in HTML, CSS, JavaScript,ReactJs, PHP, C++,JAVA
