@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm [Krupa]!
 
-![Working](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1dlZhUMjEHZPFKs_EKe9_o&ust=1726729141605000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDut7v1y4gDFQAAAAAdAAAAABBq)
+![Working Girl on PC](https://github.com/Krupa2205/Krupa2205/raw/main/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
+
 
 
 
