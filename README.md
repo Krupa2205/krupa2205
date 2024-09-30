@@ -20,7 +20,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Frontend Development](https://img.shields.io/badge/-Frontend%20Development-61DAFB?style=flat&logo=react&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Google Cloud Enthusiast](https://img.shields.io/badge/-Google%20Cloud%20Enthusiast-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
 
 
 ---
