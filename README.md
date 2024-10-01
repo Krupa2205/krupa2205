@@ -3,7 +3,7 @@
 
 🌟 Creative Web Developer | BCA '24 | Proficient in HTML, CSS, JavaScript,ReactJs, PHP, C++,JAVA
 
-🌱 I’m currently learning: React.js, building projects, and deepening my knowledge in web development.
+🌱 I’m currently learning: React.js,Backend,building projects, and deepening my knowledge in web development.
 - 📫 How to reach me: [https://www.linkedin.com/in/kaklotar-k-6200042a7/]
 
 ---
