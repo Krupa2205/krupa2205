@@ -5,7 +5,8 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px" />
 
 
-![GitHub Activity Badge](https://github-profile-summary-cards.vercel.app/api/cards/activity.svg?username=Krupa2205&theme=github)
+![GitHub commits](https://img.shields.io/github/commits-since/Krupa2205/Krupa2205/latest)
+
 
 
 
