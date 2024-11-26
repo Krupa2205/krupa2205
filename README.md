@@ -21,6 +21,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" style="margin: 10px;" />
 </div>
 
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa2205&layout=compact&langs_count=8&theme=radical)
+
+
+
 
 ### 🌐 Connect with Me
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6347&width=435&lines=Click+Here+to+Visit+My+Portfolio!)](https://krupa2205.github.io/Portfolio/)
