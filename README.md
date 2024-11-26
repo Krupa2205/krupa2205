@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200px" alt="Early Bird" />
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=react-dark&hide_border=true)
 
