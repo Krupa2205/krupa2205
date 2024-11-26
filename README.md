@@ -30,4 +30,4 @@
 
 
 ### 🌐 Connect with Me
-[https://krupa2205.github.io/]
+https://krupa2205.github.io/Portfolio/
