@@ -12,7 +12,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
 
 
-### 🚀 Featured Projects
-[![VLC Media Player Clone](https://img.shields.io/badge/-VLC%20Media%20Player-orange?style=flat-square&logo=vlc&logoColor=white)](https://github.com/Krupa2205/VLC-Clone)
 
-![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Krupa2205)
+
