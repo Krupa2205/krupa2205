@@ -1,5 +1,12 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=500&lines=Hi+there!+👋+I'm+Krupa.;A+Creative+Web+Developer.;Welcome+to+my+GitHub+Profile!)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px" />
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=react-dark&hide_border=true)
+
+
 
 ### 🌟 Tech Stack
 <div align="center">
@@ -14,24 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" style="margin: 10px;" />
 </div>
-
-### 🛠 Skills
-- **HTML5** ![HTML](https://progress-bar.dev/90?title=Proficient)
-- **CSS3** ![CSS](https://progress-bar.dev/85?title=Proficient)
-- **JavaScript** ![JavaScript](https://progress-bar.dev/80?title=Advanced)
-- **React** ![React](https://progress-bar.dev/75?title=Intermediate)
-- **PHP** ![PHP](https://progress-bar.dev/70?title=Intermediate)
-- **Java** ![Java](https://progress-bar.dev/80?title=Advanced)
-- **C++** ![C++](https://progress-bar.dev/85?title=Proficient)
-- **Tailwind CSS** ![Tailwind](https://progress-bar.dev/75?title=Intermediate)
-- **Node.js** ![Node.js](https://progress-bar.dev/60?title=Beginner)
-- **Google Cloud** ![Google Cloud](https://progress-bar.dev/65?title=Intermediate)
-
-![Terminal Animation](https://github-readme-terminal.vercel.app/?lines=Welcome+to+Krupa's+Profile!;Skills:+HTML5,+CSS3,+JavaScript,+React;Building+creative+web+solutions...;Exploring+Google+Cloud+and+more!)
-
-
-
-
 
 
 ### 🌐 Connect with Me
