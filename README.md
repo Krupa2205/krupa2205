@@ -5,7 +5,8 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px" />
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=highcontrast&hide_border=true)
+
 
 
 
