@@ -5,12 +5,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px" />
 
 
-![GitHub commits](https://img.shields.io/github/commits-since/Krupa2205/Krupa2205/latest)
-
-
-
-
-
 
 ### 🌟 Tech Stack
 <div align="center">
@@ -28,6 +22,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa2205&layout=compact&langs_count=8&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=react-dark&hide_border=true)
 
 
 
