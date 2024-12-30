@@ -27,7 +27,7 @@
 
 
 ### 🌐 Connect with Me
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6347&width=435&lines=Click+Here+to+Visit+My+Portfolio!)](https://krupa2205.github.io/Portfolio/)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6347&width=435&lines=Click+Here+to+Visit+My+Portfolio!)](https://my-portfolio-murex-six-42.vercel.app/)
 
 
 
