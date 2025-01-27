@@ -4,6 +4,11 @@
 
 
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9da093f8-f7fa-44b4-bbf5-00c609a436c7" alt="My Profile Image" width="200">
+</div>
+
+
 ![Profile img](https://github.com/user-attachments/assets/9da093f8-f7fa-44b4-bbf5-00c609a436c7)
 
 
