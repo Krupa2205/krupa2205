@@ -5,7 +5,29 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9da093f8-f7fa-44b4-bbf5-00c609a436c7" alt="My Profile Image" width="400">
+  <!-- About Me Section -->
+  <table>
+    <tr>
+      <!-- Profile Image on Left -->
+      <td align="center" width="200">
+        <img src="https://github.com/user-attachments/assets/9da093f8-f7fa-44b4-bbf5-00c609a436c7" alt="My Profile Image" width="200" style="border-radius: 50%;">
+      </td>
+      <!-- About Me with Typing Animation on Right -->
+      <td align="left" valign="middle">
+        <h1>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=Hi+there!+👋+I'm+Krupa.;A+Creative+Web+Developer.;Welcome+to+my+GitHub+Profile!" alt="Typing Animation">
+        </h1>
+        <p>
+          👨‍💻 **A passionate Web Developer** with expertise in creating responsive, user-friendly websites and applications. I enjoy learning new technologies and applying them to build innovative projects. Let's collaborate and create something amazing together!
+        </p>
+        <p>
+          <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+            <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
