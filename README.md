@@ -2,8 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px" />
 
+
+![Profile img](https://github.com/user-attachments/assets/9da093f8-f7fa-44b4-bbf5-00c609a436c7)
 
 
 ### 🌟 Tech Stack
