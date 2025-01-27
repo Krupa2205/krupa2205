@@ -18,7 +18,7 @@
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=Hi+there!+👋+I'm+Krupa.;A+Creative+Web+Developer.;Welcome+to+my+GitHub+Profile!" alt="Typing Animation">
         </h1>
         <p>
-          👨‍💻 **A passionate Web Developer** with expertise in creating responsive, user-friendly websites and applications. I enjoy learning new technologies and applying them to build innovative projects. Let's collaborate and create something amazing together!
+          👨‍💻 <strong>A passionate Web Developer</strong> with expertise in creating responsive, user-friendly websites and applications. I enjoy learning new technologies and applying them to build innovative projects. Let's collaborate and create something amazing together!
         </p>
         <p>
           <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
