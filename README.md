@@ -18,7 +18,12 @@
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=Hi+there!+👋+I'm+Krupa.;A+Creative+Web+Developer.;Welcome+to+my+GitHub+Profile!" alt="Typing Animation">
         </h1>
         <p>
-          👨‍💻 <strong>A passionate Web Developer</strong> with expertise in creating responsive, user-friendly websites and applications. I enjoy learning new technologies and applying them to build innovative projects. Let's collaborate and create something amazing together!
+          👨‍💻 <strong>A passionate Web Developer</strong>
+          Hi, I'm Krupa—a passionate and creative web developer on an exciting journey of professional and personal growth. 🌱 I am currently exploring opportunities as a "Frontend Developer" while continually enhancing my skills and learning "Full Stack Web Development". 🚀
+
+I love creating amazing "frontend projects" and developing "full-stack applications". I'm actively working on new projects, and you can check them here 💻✨
+
+I’m currently seeking "Frontend internships" and "job opportunities". Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kaklotar-k/) if you know of any great opportunities. 🙌
         </p>
         <p>
           <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
