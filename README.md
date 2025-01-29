@@ -10,7 +10,8 @@
     <tr>
       <!-- Profile Image on Left -->
       <td align="center" width="200">
-        <img src="https://github.com/user-attachments/assets/9da093f8-f7fa-44b4-bbf5-00c609a436c7" alt="My Profile Image" width="200" style="border-radius: 50%;">
+        <img src="https://github.com/user-attachments/assets/99f65d1a-27bc-4866-9ca6-c2f5627d269f
+" alt="My Profile Image" width="200" style="border-radius: 50%;">
       </td>
       <!-- About Me with Typing Animation on Right -->
       <td align="left" valign="middle">
