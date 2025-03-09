@@ -65,14 +65,21 @@ I’m currently seeking "Frontend internships" and "job opportunities". Feel fre
 
 
 
-### 📊 Most Used Languages
+### 📊 GitHub Stats & Achievements
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa2205&layout=compact&langs_count=8&theme=radical)
-
-🏆 **GitHub Trophy (Stars Count & More)**  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Krupa2205&theme=radical&column=4&no-frame=true&margin-w=5&title=Stars,Followers,Repositories,Commits)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa2205&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=Krupa2205&theme=radical&column=3&no-frame=true&margin-w=5&title=Stars,Followers,Repositories,Commits" alt="GitHub Trophy"/>
+    </td>
+  </tr>
+</table>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=react-dark&hide_border=true)
+
 
 
 
