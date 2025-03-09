@@ -9,7 +9,7 @@
   <table>
     <tr>
       <!-- Profile Image on Left -->
-      <td align="center" width="200">
+      <td align="center" width="250">
         <img src="https://github.com/user-attachments/assets/99fc5ab4-0ac3-4bac-973d-1d1d28a47de2" alt="My Profile Image" width="250" style="border-radius: 50%;">
       </td>
       <!-- About Me with Typing Animation on Right -->
