@@ -1,9 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=Krupa2205&color=pink" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=Krupa2205&color=pink" alt="Profile Views" 
-       style="border-radius: 10px; background: linear-gradient(145deg, #ffffff, #ff99cc); 
-       box-shadow: 5px 5px 10px #888888, -5px -5px 10px #ffffff; padding: 10px; font-weight: bold; 
-       color: white; text-shadow: 2px 2px 5px black;"/>
-</a>
+(https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)  
 
 
 
