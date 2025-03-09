@@ -71,8 +71,6 @@ I’m currently seeking "Frontend internships" and "job opportunities". Feel fre
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa2205&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
-    </td>
-    <td>
       <img src="https://github-profile-trophy.vercel.app/?username=Krupa2205&theme=radical&column=3&no-frame=true&margin-w=5&title=Stars,Followers,Repositories,Commits" alt="GitHub Trophy"/>
     </td>
   </tr>
