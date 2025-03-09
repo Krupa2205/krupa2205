@@ -23,7 +23,7 @@
 
 I love creating amazing "frontend projects" and developing "full-stack applications". I'm actively working on new projects, and you can check them here 💻✨
 
-I’m currently seeking "Frontend internships" and "job opportunities". Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kaklotar-k/) if you know of any great opportunities. 🙌
+I’m currently seeking "Frontend internships" and "job opportunities". Feel free to reach out to me on linkedin .if you know of any great opportunities. 🙌
         </p>
         <p>
           <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
@@ -62,9 +62,6 @@ I’m currently seeking "Frontend internships" and "job opportunities". Feel fre
     
   </table>
 </div>
-
-
-
 
 
 
