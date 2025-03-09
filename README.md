@@ -1,4 +1,4 @@
--![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=pink)
+[Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
 
 
 
