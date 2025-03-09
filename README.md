@@ -58,7 +58,6 @@ I’m currently seeking "Frontend internships" and "job opportunities". Feel fre
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva_Logo.png" width="50" height="50" alt="Canva"/></td>
     </tr>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/></td>
