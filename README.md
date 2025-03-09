@@ -1,6 +1,42 @@
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=pink)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D GitHub Profile Views Button</title>
+    <style>
+        .profile-button {
+            display: inline-block;
+            padding: 12px 20px;
+            font-size: 18px;
+            font-weight: bold;
+            color: white;
+            background: linear-gradient(to bottom, #fff, #ff69b4);
+            border: none;
+            border-radius: 8px;
+            box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.6);
+            text-decoration: none;
+            text-align: center;
+            transition: all 0.2s ease-in-out;
+        }
+
+        .profile-button:hover {
+            transform: translateY(2px);
+            box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+
+    <a href="https://github.com/Krupa2205" class="profile-button">
+        <img src="https://komarev.com/ghpvc/?username=Krupa2205&color=pink" alt="Profile Views">
+    </a>
+
+</body>
+</html>
+
 
 
 
