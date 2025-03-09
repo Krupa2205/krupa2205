@@ -1,6 +1,6 @@
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=pink)
 
 
 
