@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=react-dark&hide_border=true)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=console.log('Hello+World!');+const+name+=+'Krupa';+let+isDeveloper+=+true;)
 
 
 <div align="center">
