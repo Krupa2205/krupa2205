@@ -1,5 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
 
+<div align="center">
+  <img src="https://github.com/Krupa2205/Krupa2205/blob/main/cartoon-girl-animation.svg" alt="Cartoon Girl Animation" width="300">
+</div>
+
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=console.log('Hello+World!');+const+name+=+'Krupa';+let+isDeveloper+=+true;)
 
