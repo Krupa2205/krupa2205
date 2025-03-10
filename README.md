@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
 
 
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=react-dark&hide_border=true)
 
 
 <div align="center">
