@@ -1,4 +1,4 @@
-![Profile Views👀](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)  
+![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)  👀
 
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=console.log('KeepCoding..😄💻');+const+name+=+'Krupa😁';+let+isDeveloper+=+true;)
