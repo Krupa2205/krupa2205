@@ -1,13 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)
 
-<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="150" cy="150" r="100" fill="yellow" />
-  <circle cx="120" cy="120" r="10" fill="black" />
-  <circle cx="180" cy="120" r="10" fill="black" />
-  <path d="M 100 200 Q 150 250 200 200" stroke="black" stroke-width="5" fill="transparent" />
-  <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="5s" repeatCount="indefinite" />
-</svg>
-
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=console.log('Hello+World!');+const+name+=+'Krupa';+let+isDeveloper+=+true;)
 
