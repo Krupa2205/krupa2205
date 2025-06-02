@@ -80,8 +80,6 @@ I’m currently seeking "Frontend internships" and "job opportunities". Feel fre
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=react-dark&hide_border=true)
-
 
 
 
