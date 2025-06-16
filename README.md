@@ -57,20 +57,7 @@ I’m currently seeking "Frontend internships" and "job opportunities". Feel fre
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/></td>
-      <td>
-  <img
-    src="https://worldvectorlogo.com/logo/framer-motion.svg"
-    width="50" height="50"
-    alt="Framer Motion"
-  />
-</td>
-<td>
-  <img
-    src="https://seeklogo.com/images/S/shadcn-ui-logo-5197862C3E-seeklogo.com.svg"
-    width="50" height="50"
-    alt="shadcn/ui"
-  />
-</td>
+      
 
     
     
