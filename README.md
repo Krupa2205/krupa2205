@@ -62,7 +62,7 @@ I’m currently seeking "Frontend internships" and "job opportunities". Feel fre
     
     
     
-    </tr>
+    
    </table>
 </div>
 
