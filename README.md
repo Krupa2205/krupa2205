@@ -24,14 +24,7 @@
 I love creating amazing "frontend projects" and developing "full-stack applications". I'm actively working on new projects, and you can check them here 💻✨
 
 
-        </p>
-        <p>
-          <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-          </a>
-        </p>
-      </td>
-    </tr>
+       
   </table>
 </div>
 
