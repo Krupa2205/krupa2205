@@ -49,12 +49,6 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🥈 **Algohack Hackathon:** Secured 2nd place!
-- 🏅 Multiple certifications in web development & more — [Check my LinkedIn!](https://www.linkedin.com/in/kaklotar-k/)
-
----
 
 ### 📊 GitHub Stats & Achievements
 
@@ -79,10 +73,6 @@
 
 ---
 
-### 💡 Fun Fact
 
-> I never stop. If I’m tired, I take a break and keep going with a strong mindset—frustration never wins! 🚀
+> I never stop. If I’m tired, I take a break and keep going with a strong mindset—frustration never wins -Krupa 🚀
 
----
-
-_Thanks for visiting my profile!_
