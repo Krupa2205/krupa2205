@@ -49,23 +49,6 @@
 ---
 
 
-### 📊 GitHub Stats & Achievements
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa2205&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Krupa2205&theme=radical&no-frame=true&margin-w=5&title=Stars,Followers,Repositories,Commits&column=4" alt="GitHub Trophy"/>
-    </td>
-  </tr>
-</table>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krupa2205&theme=react-dark&hide_border=true)
-
----
-
 ### 🔗 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kaklotar-k/)
