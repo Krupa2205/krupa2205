@@ -14,11 +14,12 @@
         </h1>
         <p>
           👨‍💻 <strong>A passionate Web Developer</strong><br>
-          Hi, I'm Krupa—a passionate and creative web developer on an exciting journey of professional and personal growth. 🌱<br>
-          Currently exploring opportunities as a <b>Frontend Developer</b> while continually expanding my <b>Full Stack Web Development</b> skills.<br>
-          I love building awesome frontend projects and developing full-stack applications.<br>
-          Always learning, always growing. If I get tired, I take a break, then come back even stronger!<br>
-          🥈 <b>Algohack Hackathon 2nd Place Winner!</b>
+         Hi, I'm Krupa — a passionate and creative web developer on an exciting journey of professional and personal growth. 🌱
+✨ You are your own creator. Believe in your journey, walk with confidence, and trust that you’re going to make it.
+With passion as my fuel and consistency as my strength, I’m carving my own path in tech —
+one line of code at a time. 🚀
+
+
         </p>
       </td>
     </tr>
