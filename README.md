@@ -20,9 +20,7 @@ With passion as my fuel and consistency as my strength, I’m carving my own pat
 one line of code at a time. 🚀
 
 
-        </p>
-      </td>
-    </tr>
+        
   </table>
 </div>
 
