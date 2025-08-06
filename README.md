@@ -10,7 +10,7 @@
       </td>
       <td align="left" valign="middle">
         <h1>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=Hi+there!+👋+I'm+Krupa.;A+Creative+Web+Developer.;Welcome+to+my+GitHub+Profile!" alt="Typing Animation">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=Hi+there!+👋+I'm+Krupa.;Welcome+to+my+GitHub+Profile!" alt="Typing Animation">
         </h1>
         <p>
           👨‍💻 <strong>A passionate Web Developer</strong><br>
